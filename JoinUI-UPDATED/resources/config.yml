@@ -1,0 +1,17 @@
+---
+# Config File for JoinUIWorking
+# Thanks for using my Plugin
+
+# Use \n to go in a new line
+# Use {player} to get player name
+# Use § as a color symbole
+
+joinui-title: "§7» §dHI" # UI Title
+joinui-message: "§eWelcome, {player}!\n§bHave fun!\n\nJoin Our Discord For More Info!\n§f§lFeatures : §eSupport 1.16" # UI Text
+joinui-button: "§cStart Playing" # UI Button
+
+enabled-joinui: "true" # If you set enabled to false, you will no longer see a UI when joining. Default is on true
+no-joinui-message: "§l§eServer §r§7» §cJoinUI is disabled!" # The Message if you set "enabled-joinui" to false
+
+# UPDATE BY Masix : https://discord.gg/gp8QG7p
+...

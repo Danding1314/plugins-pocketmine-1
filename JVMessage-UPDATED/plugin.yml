@@ -1,0 +1,5 @@
+name: JVMessage-UPDATED
+main: Masix\Main
+api: [3.14.0]
+version: 1.2
+author: Masix
