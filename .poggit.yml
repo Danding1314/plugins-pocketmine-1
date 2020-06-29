@@ -1,0 +1,12 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Masix-157/plugins-pocketmine
+build-by-default: true
+branches:
+- master
+projects:
+  JVMessage-UPDATED:
+    path: JVMessage-UPDATED/
+  JoinMessage-UPDATED:
+    path: JoinMessage-UPDATED/
+  JoinUI-UPDATED:
+    path: JoinUI-UPDATED/
+...
